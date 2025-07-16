@@ -5,6 +5,9 @@ This repository provides an example ROS 2 package for controlling multiple robot
 The original package can be found here:  [Original GitLab Repository](https://gitlab.ensta-bretagne.fr/zerrbe/ign-ros2-multi-robots-control-update/-/tree/master/simple_test/resource?ref_type=heads)
 
 This revised version enhances the original package to fully utilize the ROS 2 controller framework, focusing on stability and ease of expansion.
+The original revises "gz_ros2_control" but this repo doesn't have to revise any code given by binary execution.
+
+I think this approach is more convinent for beginners like me.
 
 ---
 
