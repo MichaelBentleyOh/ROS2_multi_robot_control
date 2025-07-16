@@ -64,7 +64,6 @@ ros2 launch simple_test simple_diff_drive_two_robots.launch.py
 ```
 
 ---
----
 
 ### 5. Analyse this package and apply to your project
 
